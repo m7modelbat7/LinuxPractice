@@ -20,3 +20,19 @@
 - git add .
 - git commit -m "add linux commands"
 - git push
+
+## Service and Process Management
+
+### Service Management with systemctl
+
+- `systemctl enable`
+- `systemctl start`
+- `systemctl status`
+- `systemctl kill`
+
+### Process Monitoring
+
+- `top`
+- `htop`
+- `ps`
+
